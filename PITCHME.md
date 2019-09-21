@@ -22,11 +22,20 @@
 * メモ1-2
 * メモ1-3
 
-### メモ2
+---
 
-リンクとか
-* [gistはメモの共有に便利](https://gist.github.com/chuui/7e8d4fa8d688a7bc9bb483a0d417e3e1)
+## リンク
+
+この勉強会資料のリンク:
+* [GitHubリポジトリ](https://github/chuui/git_benkyoukai)
+* [GitPitchで見る](https://gitpitch.com/chuui/git_benkyoukai)
+* [子文書のgist](https://gist.github.com/chuui/7e8d4fa8d688a7bc9bb483a0d417e3e1)
 
 ---
 
 ## おわり
+---
+## おわり2
+---
+## おわり3
+---

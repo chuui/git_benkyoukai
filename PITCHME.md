@@ -27,7 +27,7 @@
 ## リンク
 
 この勉強会資料のリンク:
-* [GitHubリポジトリ](https://github/chuui/git_benkyoukai)
+* [GitHubリポジトリ](https://github.com/chuui/git_benkyoukai)
 * [GitPitchで見る](https://gitpitch.com/chuui/git_benkyoukai)
 * [子文書のgist](https://gist.github.com/chuui/7e8d4fa8d688a7bc9bb483a0d417e3e1)
 
